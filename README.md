@@ -1,3 +1,5 @@
+**Frontend-day-01**
+
 # CSS Button Hover Effects
 
 ## 📘 Project Title
@@ -43,5 +45,31 @@ All effects are triggered using the `:hover` pseudo-class without using JavaScri
 - **CSS3** – for styling, hover effects, transitions, and animations
 
 ---
+**Frontend-day-02**
+# CSS Flexbox Demonstration Project
 
-## 📂 Project Structure
+This project is a frontend web application built to demonstrate the practical usage of **CSS Flexbox** for creating responsive and flexible layouts. It is designed as a learning project for understanding layout alignment, responsive sections, image galleries, and footer structures using pure HTML and CSS.
+
+---
+
+## 🚀 Project Features
+
+- Responsive navigation bar using Flexbox
+- Hero section with call-to-action button
+- Feature cards aligned using Flexbox
+- Image gallery with hover effects
+- Fully responsive footer layout
+- Clean and beginner-friendly code structure
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- CSS Flexbox  
+
+---
+
+## 📁 Project Folder Structure
+
