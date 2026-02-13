@@ -70,13 +70,6 @@ This project is a frontend web application built to demonstrate the practical us
 - CSS Flexbox  
 
 ---
-
-
-
-
-Here is a clean **LinkedIn-ready README content** you can copy and paste into your LinkedIn post (or GitHub README):
-
----
 **Frontend-day-03**
 # 🚀 CSS Grid Layout – Fully Responsive Web Page
 
